@@ -14,7 +14,7 @@
 
 ---
 🔹 Featured Projects
-- Retail Sales Analytics Dashboard** – SQL + Power BI project revealing key drivers of revenue and customer trends  
+- Retail Sales Analytics Dashboard – SQL + Power BI project revealing key drivers of revenue and customer trends  
 - Carbon-Aware ML Pipeline – Framework for monitoring CO₂ emissions of ML workloads across Spark, Dask, and single-machine setups  
 - Early-Stage Diabetes Risk Prediction – Predictive modeling with Python (Scikit-Learn) to support healthcare insights
 
